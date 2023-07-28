@@ -390,12 +390,12 @@ button,select{text-transform:none}[type=button],[type=reset],[type=submit],butto
   }
 
   /* Section Latest news ============================= */
-  .section-latest-news .row{
+  .row .section-latest-news{
     flex-direction: row-reverse;
   }
 
   /* Section SERVICES ============================= */
-  .section-services .row{
+  .row .section-services{
     flex-wrap: wrap;
   }
 
