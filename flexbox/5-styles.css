@@ -218,10 +218,6 @@ button,select{text-transform:none}[type=button],[type=reset],[type=submit],butto
   /* Navbar
       ============================= */
   
-  .navbar-menu {
-    float: right;
-  }
-  
   .nav {
     margin: 0;
     padding: 0;
