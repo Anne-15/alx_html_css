@@ -1,6 +1,7 @@
 body{
     display: flex;
     flex-direction: column;
+    background-color: beige;
 }
 
 main{
@@ -12,6 +13,10 @@ main{
 article{
     flex: 2;
     overflow-y: auto;
+}
+
+article h1 h2{
+    text-decoration-color: aqua;
 }
 
 aside{
