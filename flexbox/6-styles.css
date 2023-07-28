@@ -232,6 +232,10 @@ button,select{text-transform:none}[type=button],[type=reset],[type=submit],butto
     font-size: var(--nav-item-font-size);
     letter-spacing: var(--nav-item-letter-spacing);
   }
+
+  .nav .nav-item .nav-item {
+    margin: 0 0 0 2rem;
+  }
   
   .nav .nav-link {
     display: block;
@@ -260,9 +264,7 @@ button,select{text-transform:none}[type=button],[type=reset],[type=submit],butto
     width: 100%;
   }
 
-  .nav .nav-item + .nav-item {
-    margin: 0 0 0 2rem;
-  }
+  
   
   /* Header
       ============================= */
