@@ -390,7 +390,7 @@ button,select{text-transform:none}[type=button],[type=reset],[type=submit],butto
   }
 
   /* Section Latest news ============================= */
-  .section-latest-news .container .section-body .row{
+  #latest_news .row{
     flex-direction: row-reverse;
   }
 
