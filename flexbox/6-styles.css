@@ -234,7 +234,7 @@ button,select{text-transform:none}[type=button],[type=reset],[type=submit],butto
   }
 
   .nav .nav-item + .nav-item {
-    margin: 0 0 0 2rem;
+    margin:auto;
   }
   
   .nav .nav-link {
