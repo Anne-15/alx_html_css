@@ -389,17 +389,17 @@ button,select{text-transform:none}[type=button],[type=reset],[type=submit],butto
     padding: 10rem 40rem 2rem 0;
   }
 
-  /* Section Latest news ============================= */
-  .section-latest-news .row{
-    display: flex;
-    flex-direction: row-reverse;
-  }
+/* Section Latest news ============================= */
+.section-latest-news .row{
+  display: flex;
+  flex-direction: row-reverse;
+}
 
-  /* Section SERVICES ============================= */
-  .section-services .row{
-    display: flex;
-    flex-wrap: wrap;
-  }
+/* Section SERVICES ============================= */
+.section-services .row {
+  display: flex;
+  flex-wrap: wrap;
+}
 
   /*** 4. CARD ***/
   
