@@ -390,8 +390,8 @@ button,select{text-transform:none}[type=button],[type=reset],[type=submit],butto
   }
 
 /* Section Latest news ============================= */
-.section-latest-news .row{
-  display: flex;
+
+.section-latest-news .row {
   flex-direction: row-reverse;
 }
 
